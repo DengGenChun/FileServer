@@ -1,0 +1,19 @@
+{
+    "main.go" : "",
+    "Address" : ":4000",
+    "TemplateDir" : "./template",
+    "SuperAdminAccount" : "ddd",
+    "SuperAdminPwd" : "4400",
+    "AdminPwd" : "4399",
+
+    "dir.go" : "",
+    "FileMainDir" : "./file",
+    "LogMainDir"  : "./log",
+
+    "user.go" : "",
+    "TimeLimitInSecond"           : 3,
+	"AccessCountLimit"            : 5,
+	"TimeBoforeRestoreInSecond"   : 60,
+	"TimeForUserToExistInSecond"  : 180,
+	"TimeForExpiredCheckInSecond" : 60
+}
